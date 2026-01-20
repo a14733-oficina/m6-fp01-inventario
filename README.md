@@ -2,82 +2,75 @@
 
 ## 👤 Informações
 - **Nome do aluno:Tiago Ferreira Gonçalves**  
-- **Turma:**  
+- **Turma:**2ºI  
 - **Disciplina:** REDES – M6 – Programação de Sistemas de Informação  
 - **Curso:** GPSI – 2.º Ano  
 
 ---
 
 ## 🎯 Objetivo do Projeto
-Este projeto consiste no desenvolvimento de uma aplicação web para gestão e consulta de um inventário de computadores de uma sala informática, utilizando PHP para a lógica da aplicação e SQL para a base de dados.
-
-A aplicação permite consultar informações técnicas dos computadores e o software instalado em cada equipamento.
+O projeto consiste no desenvolvimento de uma aplicação web para a gestão e consulta de inventário de computadores de salas informáticas da escola. 
+NOo exercicio construída com PHP e SQL. A principal função é permitir a consulta dos equipamentos, onde o user pode selecionar a sala e ver as informações de hardware e o software instalado em cada máquina,assim facilta o controlo e a manutenção dos computadires.
 
 ---
 
 ## 🧱 Estrutura Geral do Projeto
-Descrição sucinta da estrutura do projeto, por exemplo:
-- Organização das pastas;
-- Ficheiros principais (index.php, ligação à base de dados, páginas de detalhe, etc.);
-- Estrutura geral da base de dados.
+Como está organizada a estrutura do projeto:
+- Pastas:Home
+          htdocs
+            m6-inventario
+- Ficheiros principais:index.php;detalhe.php;config.php
+- Base de dados:tabela computadores;tabela computador_software;tabela salas;tabela software
 
 ---
 
 ## ⚙️ Funcionalidades Desenvolvidas
-Lista das funcionalidades que foram efetivamente implementadas no projeto:
+Lista das funcionalidades implementadas no projeto:
 
 - [ ] Ligação à base de dados com PHP (PDO)
+- [ ] Listagem de salas
 - [ ] Listagem de computadores por sala
 - [ ] Visualização das características técnicas de cada computador
-- [ ] Consulta do software instalado
+- [ ] Saber quais software instalados em cada computador
 - [ ] Página de detalhe por computador
 - [ ] Pesquisa por nome de computador
 - [ ] Pesquisa por software
-- [ ] Organização do dashboard
-- [ ] Melhorias visuais no interface (cores, layout, ícones)
-- [ ] Outras funcionalidades (especificar):
+- [ ] Melhorias visuais no interface
 
 ---
 
 ## 🤖 Utilização da Inteligência Artificial (IA)
-Nesta secção descrevo de forma clara como utilizei Inteligência Artificial no desenvolvimento do projeto.
+Neste trabalho utilizei a IA para fazer a parte grafica do trabalho e as funçoes tais quais:Pesquisa por nome de computador,melhorias visuais no interface,pesquisa por software.Quanto ao uso eu pedia o que desejava e verificava o resultado e modificava ate chegar ao resultado atual.
 
 ### 🔹 Onde utilizei IA
-(Exemplos – apagar os que não se aplicam e acrescentar outros)
 
-- Apoio na escrita ou correção de código PHP  
-- Sugestões para queries SQL  
-- Ajuda na estruturação da base de dados  
-- Melhoria do interface gráfico (CSS / layout)  
+- Apoio na escrita ou correção de código PHP   
+- Melhoria do interface gráfico 
 - Implementação da funcionalidade de pesquisa  
-- Organização do dashboard  
 - Resolução de erros ou problemas técnicos  
 
 ### 🔹 Como utilizei a IA
-Descrição breve do tipo de apoio recebido, por exemplo:
-- A IA sugeriu exemplos de código que foram adaptados;
-- Ajudou a compreender erros e respetivas correções;
-- Sugeriu melhorias visuais ou estruturais.
+Eu apresentava o meu codigo e descrevia o que queria e se o resultado fosse satisfatório mudava o codigo senão mudificava a prompt até a um resultado bom.
 
 ---
 
 ## ✍️ Trabalho Desenvolvido Manualmente
-Descrição das partes do projeto que foram desenvolvidas diretamente pelo aluno, por exemplo:
-- Adaptação e personalização do código;
-- Implementação final das funcionalidades;
-- Decisões de organização do projeto;
-- Alterações feitas às sugestões da IA.
+
+-Toda a parte de base de dados
+-Erros na base de dados
+-Github
 
 ---
 
 ## 🚧 Dificuldades Encontradas
-Descrição das principais dificuldades técnicas ou conceptuais encontradas durante o desenvolvimento do projeto.
+Na parte de dados tive alguns problemas com dados duplicados e id errados mas resolvi rapidamente.
 
 ---
 
 ## 📚 Aprendizagens Realizadas
-Reflexão sobre o que foi aprendido com este trabalho, por exemplo:
-- Ligação entre PHP e base de dados;
+
+- Mais sobre base de dados;
+- Diagramas de base de dados
 - Organização de um projeto web;
 - Utilização consciente da Inteligência Artificial;
-- Importância da documentação do código.
+
