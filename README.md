@@ -1,10 +1,10 @@
 # 📊 Inventário de Computadores – Aplicação Web (PHP + SQL)
 
 ## 👤 Informações
-- **Nome do aluno:**Tiago Ferreira Gonçalves 
-- **Turma:**2ºI  
-- **Disciplina:** REDES – M6 – Programação de Sistemas de Informação  
-- **Curso:** GPSI – 2.º Ano  
+- Nome do aluno: Tiago Ferreira Gonçalves 
+- Turma: 2ºI  
+- Disciplina: REDES – M6 – Programação de Sistemas de Informação  
+- Curso: GPSI – 2.º Ano  
 
 ---
 
