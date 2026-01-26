@@ -27,15 +27,15 @@ Como está organizada a estrutura do projeto:
 ## ⚙️ Funcionalidades Desenvolvidas
 Lista das funcionalidades implementadas no projeto:
 
-- [ ] Ligação à base de dados com PHP (PDO)
-- [ ] Listagem de salas
-- [ ] Listagem de computadores por sala
-- [ ] Visualização das características técnicas de cada computador
-- [ ] Saber quais software instalados em cada computador
-- [ ] Página de detalhe por computador
-- [ ] Pesquisa por nome de computador
-- [ ] Pesquisa por software
-- [ ] Melhorias visuais no interface
+-  Ligação à base de dados com PHP (PDO)
+-  Listagem de salas
+-  Listagem de computadores por sala
+-  Visualização das características técnicas de cada computador
+-  Saber quais software instalados em cada computador
+-  Página de detalhe por computador
+-  Pesquisa por nome de computador
+-  Pesquisa por software
+-  Melhorias visuais no interface
 
 ---
 
