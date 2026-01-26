@@ -74,5 +74,8 @@ Na parte de dados tive alguns problemas com dados duplicados e id errados mas re
 - Organização de um projeto web;
 - Utilização consciente da Inteligência Artificial;
 
-## Link para o projeto
+---
 
+## ⛓️ Link para o projeto
+
+- https://a14733-oficina.infinityfree.me/m6-inventario/
