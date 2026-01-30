@@ -36,6 +36,10 @@ Lista das funcionalidades implementadas no projeto:
 -  Pesquisa por nome de computador
 -  Pesquisa por software
 -  Melhorias visuais no interface
+-  Debounce
+-  Ordem alfabética
+-  Minimo 2 caracteres mostrar a mensagem: “Sem resultados encontrados” quando aplicável
+
 
 ---
 
